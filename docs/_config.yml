@@ -36,7 +36,7 @@ plugins:
 
 header_pages:
   - introduction.md
-  - index.md
+  - toc.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
