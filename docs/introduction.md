@@ -23,6 +23,8 @@ permalink: /introduction/
 
 ---
 
+[![RORLAB](./rorlab_final_sticker_187x95_white.png)](http://rorla.rorlab.org)
+
 ROR Lab. 운영자<br /> 최 효 성
 
 - 본 글의 원 주소는 [`이 곳`](https://github.com/rorlakr/railsguidebook)입니다. 본래의 gitbook에서 jekyll 프로젝트로 변환하였습니다.
