@@ -10,5 +10,5 @@ layout: home
 ![](./cover.jpg)
 
 
-* [소개](./introduction.html)
+* [소개](./introduction)
 * [목차](./toc.html)
