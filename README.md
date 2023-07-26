@@ -1,7 +1,7 @@
 
 # # 초보자를 위한 레일스 가이드북 v1.0.6 (Jekyll Book)
 
-- Jekyll site 주소: [damulhan.github.io/railsguidebook/](damulhan.github.io/railsguidebook)
+- Jekyll site 주소: [http://damulhan.github.io/railsguidebook/](http://damulhan.github.io/railsguidebook)
 
 
 ----

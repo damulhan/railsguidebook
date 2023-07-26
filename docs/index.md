@@ -9,7 +9,7 @@ layout: home
 
 ![](./cover_small.jpg)
 
-# 목차
+## 목차
 
 * [소개](./introduction)
 * [저자소개](contents/authors.html)
@@ -63,5 +63,3 @@ layout: home
    * [추천도서](appendices/books.html)
    * [추천동영상](appendices/screencasts.html)
    * [변경내역](appendices/change_logs.html)
-
-
